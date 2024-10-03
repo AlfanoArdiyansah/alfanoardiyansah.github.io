@@ -1,0 +1,49 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+h2 {
+  margin-bottom: 3%;
+  justify-content: center;
+  text-align: center;
+  font-family: "Poppins", system-ui;
+  font-weight: 700;
+}
+
+.p1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 23px;
+}
+
+.p2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+#Created {
+  font-weight: bold;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.lead {
+  font-weight: 400;
+}
+
+.maps iframe {
+  width: 80%;
+  height: 500px;
+  margin-top: 3rem;
+  margin-left: 10%;
+}
+
+h1 {
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
